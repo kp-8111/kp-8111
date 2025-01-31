@@ -5,7 +5,7 @@ Hi there! I'm **Kunal Patil**, a passionate **Data Analyst** and **Data Engineer
 ---
 
 ## 🌟 About Me  
-- 🎓 **Bachelor of Engineering** in Computer Science (AIML) | CGPA: 8.26  
+- 🎓 **Bachelor of Engineering** in Computer Science (AIML)  
 - 🧠 Always learning and growing in the fields of **Data Analytics**, **Data Engineering**, and **Machine Learning**.  
 - 💡 Passionate about transforming raw data into meaningful insights and scalable solutions.  
 
