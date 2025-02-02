@@ -30,25 +30,6 @@ Hi there! I'm **Kunal Patil**, a passionate **Data Analyst** and **Data Engineer
 
 ---
 
-## 🚀 Projects  
-
-### 1. **[Sales Insights – FMCG Domain](https://project.novypro.com/VV6kg3)**  
-   - Tools: **SQL**, **Power BI**, **Power Query**  
-   - Automated dashboards tracking revenue growth, YOY trends, and regional performance.  
-   - 📈 **Result**: Enabled strategic decision-making, increasing potential revenue by 7%.  
-
-### 2. **[Revenue Insights – Hospitality Industry](https://project.novypro.com/FCFjsA)**  
-   - Tools: **Python**, **Pandas**, **Power BI**  
-   - Built KPIs dashboards to track revenue trends and customer behavior.  
-   - 📈 **Result**: Helped regain 20% market share within one month.  
-
-### 3. **[Supply Chain Analytics – FMCG Domain](https://project.novypro.com/KmaPey)**  
-   - Tools: **SQL**, **Power BI**  
-   - Dashboards for tracking delivery performance metrics (OTIF %, In-Full %, On-Time %).  
-   - 📈 **Result**: Improved delivery accuracy and supply chain efficiency.  
-
----
-
 ## 📫 Let’s Connect!  
 
 - 🌐 **[Portfolio](https://my.novypro.com/kunal-patil)**  
